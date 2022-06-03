@@ -3,7 +3,7 @@
     font-family: 'Roboto', Arial, sans-serif;
 }
 
-.body {
+body {
     margin: 0;
 }
 
@@ -157,5 +157,7 @@
 
 .footer {
     background-color: #1f2937;
-    color: #f9faf8;
+    color: #e5e7eb;
+    font-size: 16px;
+    height: 100px;
 }
