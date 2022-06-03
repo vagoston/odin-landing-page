@@ -1,0 +1,42 @@
+* {
+    font-size: 24px;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.header, .hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.header, .hero, .galery, .quote, .sign-up, .footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    height: 40px;
+}
+
+.hero {
+    height: 300px;
+}
+
+.galery {
+    height: 300px;
+    color: #1f2937;
+}
+
+.quote {
+    height: 300px;
+    background-color: #e5e7eb;
+}
+
+.sign-up {
+    height: 200px;
+    color: #3882f6;
+}
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
